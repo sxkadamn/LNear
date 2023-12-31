@@ -1,0 +1,22 @@
+perms:
+  permission1: 100
+  permission2: 150
+  permission3: 200
+
+settings:
+  gamemode: true #показывать ли игроков в gamemode spectator
+  invisibility: true #показывать ли игроков в невидимости
+
+messages:
+  players_near: "&a{player} {distance}"
+  near_messages: "&bИгроки в радиусе {radius} блоков:"
+
+directions:
+  0: "&6§l↑ §fПрямо."
+  1: "6§l↖ §fПрямо Налево."
+  2: "&6§l← §fНалево."
+  3: "§6§l↙ §fНазад Налево."
+  4: "&6§l↓ §fНазад."
+  5: "§6§l↘ §fНазад Направо."
+  6: "&6§l→ §fНаправо."
+  7: "§6§l↗ §fПрямо Направо."
